@@ -1,0 +1,10 @@
+html {
+    background-color: rgb(192, 243, 243);
+    /* задний фон аква */
+}
+h1 {
+    color: rgb(235, 21, 210);
+}
+p {
+    margin: 5px;
+}
